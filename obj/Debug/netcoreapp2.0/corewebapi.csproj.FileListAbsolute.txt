@@ -1,0 +1,10 @@
+C:\Users\vmitlikopp001\Documents\corewebapi\bin\Debug\netcoreapp2.0\corewebapi.deps.json
+C:\Users\vmitlikopp001\Documents\corewebapi\bin\Debug\netcoreapp2.0\corewebapi.runtimeconfig.json
+C:\Users\vmitlikopp001\Documents\corewebapi\bin\Debug\netcoreapp2.0\corewebapi.runtimeconfig.dev.json
+C:\Users\vmitlikopp001\Documents\corewebapi\bin\Debug\netcoreapp2.0\corewebapi.dll
+C:\Users\vmitlikopp001\Documents\corewebapi\bin\Debug\netcoreapp2.0\corewebapi.pdb
+C:\Users\vmitlikopp001\Documents\corewebapi\obj\Debug\netcoreapp2.0\corewebapi.csproj.CoreCompileInputs.cache
+C:\Users\vmitlikopp001\Documents\corewebapi\obj\Debug\netcoreapp2.0\corewebapi.AssemblyInfoInputs.cache
+C:\Users\vmitlikopp001\Documents\corewebapi\obj\Debug\netcoreapp2.0\corewebapi.AssemblyInfo.cs
+C:\Users\vmitlikopp001\Documents\corewebapi\obj\Debug\netcoreapp2.0\corewebapi.dll
+C:\Users\vmitlikopp001\Documents\corewebapi\obj\Debug\netcoreapp2.0\corewebapi.pdb
